@@ -1,0 +1,10 @@
+.CardsGallery{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-flow: row wrap;
+}
+.CardsGallery img{
+    max-width: 286px;
+    height: 180px;
+}
